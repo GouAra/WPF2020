@@ -43,10 +43,10 @@ namespace Motion
                 {
                     Console.WriteLine(law[j].Last());
                 }
-                if ((T - i) < Period)
+                if ((T - i) < Period) // если i = T
                 {
                     i = T;
-                    law[0].Add(i); // № шага
+                    law[0].Add(i); // время
                     law[1].Add(vx * i + Distance); // x координата
                     law[2].Add(0); // y координата
                     for (int j = 0; j < 3; j++)
