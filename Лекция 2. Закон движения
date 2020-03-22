@@ -1,0 +1,76 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Motion
+{
+    class Motion
+    {
+        const double g = 9.8;
+        private double vx; // x-ая скорость
+        private double vy; // y-ая начальная скорость
+        private double Angle; // угол
+        private double Period; // промежуток времени
+        private double Distance; // расстояние от начала координат
+        private List<List<double>> law = new List<List<double>>(); // массив координат
+
+        public Motion(double speed, double angle, double period, double distance)
+        {
+            this.Angle = Math.PI * angle / 180; // в радианах
+            vx = speed * Math.Cos(Angle);
+            vy = speed * Math.Sin(Angle);
+            Period = period;
+            Distance = distance;
+        }
+
+        public void init() // инициализация
+        {
+            this.law.Add(new List<double>());
+            this.law.Add(new List<double>());
+            this.law.Add(new List<double>());
+        }
+
+        public void Law()
+        {
+            double T = 2 * vy / g; // полное время
+            for (double i = 1; i <= T; i += Period)
+            {
+                init();
+                law[0].Add(i); // время
+                law[1].Add(vx * i + Distance); // x координата
+                law[2].Add(vy * i - (g * Math.Pow(i, 2) / 2)); // y координата
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.WriteLine(law[j].Last());
+                }
+                if ((T - i) < Period)
+                {
+                    i = T;
+                    law[0].Add(i); // № шага
+                    law[1].Add(vx * i + Distance); // x координата
+                    law[2].Add(0); // y координата
+                    for (int j = 0; j < 3; j++)
+                    {
+                        Console.WriteLine(law[j].Last());
+                    }
+                }
+                Console.WriteLine("Время полёта: {0} секунд. Дальность: {1} метров", T, law[0].Last());
+            }
+            
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double s, a, p, d;
+            s = Convert.ToDouble(Console.ReadLine()); // speed
+            a = Convert.ToDouble(Console.ReadLine()); // angle
+            p = Convert.ToDouble(Console.ReadLine()); // period
+            d = Convert.ToDouble(Console.ReadLine()); // distance
+            Motion m = new Motion (s, a, p, d);
+            m.Law();
+        }
+    }
+}
