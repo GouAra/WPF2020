@@ -1,8 +1,0 @@
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\obj\Debug\Chapter5.Example4.csprojAssemblyReference.cache
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\obj\Debug\Chapter5.Example4.csproj.CoreCompileInputs.cache
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\bin\Debug\Chapter5.Example4.exe.config
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\bin\Debug\Chapter5.Example4.exe
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\bin\Debug\Chapter5.Example4.pdb
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\obj\Debug\Chapter5.Example4.exe
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\obj\Debug\Chapter5.Example4.pdb
-C:\Users\Михаил\source\repos\Chapter5.Example4\Chapter5.Example4\obj\Debug\Chapter5.Example4.g.resources
