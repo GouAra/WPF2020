@@ -1,0 +1,7 @@
+C:\Users\Михаил\source\repos\Chapter31.Example4\Chapter31.Example4\bin\Debug\Chapter31.Example4.exe.config
+C:\Users\Михаил\source\repos\Chapter31.Example4\Chapter31.Example4\bin\Debug\Chapter31.Example4.exe
+C:\Users\Михаил\source\repos\Chapter31.Example4\Chapter31.Example4\bin\Debug\Chapter31.Example4.pdb
+C:\Users\Михаил\source\repos\Chapter31.Example4\Chapter31.Example4\obj\Debug\Chapter31.Example4.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Chapter31.Example4\Chapter31.Example4\obj\Debug\Chapter31.Example4.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Chapter31.Example4\Chapter31.Example4\obj\Debug\Chapter31.Example4.exe
+C:\Users\Михаил\source\repos\Chapter31.Example4\Chapter31.Example4\obj\Debug\Chapter31.Example4.pdb

@@ -1,0 +1,16 @@
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\bin\Debug\Chapter21.Example4.exe.config
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\bin\Debug\Chapter21.Example4.exe
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\bin\Debug\Chapter21.Example4.pdb
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\App.g.cs
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4_MarkupCompile.cache
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4_MarkupCompile.lref
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\App.baml
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\MainWindow.baml
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4.g.resources
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4.exe
+C:\Users\Михаил\source\repos\Chapter21.Example4\Chapter21.Example4\obj\Debug\Chapter21.Example4.pdb
